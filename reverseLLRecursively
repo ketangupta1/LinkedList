@@ -44,3 +44,6 @@ public static LinkedListNode<Integer> reverseLinkedListRR(LinkedListNode<Integer
    head.next=null;
    return smallHead;
  }
+   
+   
+//LL is reversed recursively
